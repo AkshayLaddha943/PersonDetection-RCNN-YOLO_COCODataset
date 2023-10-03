@@ -19,7 +19,6 @@ The project was performed with the following tools
 
 Download the COCO dataset - (https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset)
 
-## Project Structure
+## Results
 
-* [Cloning the repository](https://github.com/AkshayLaddha943/Arrow_SensorFusion_turtlebot3_ws#cloning-the-repository)
-* [Installing required rosdep packages and dependencies](https://github.com/AkshayLaddha943/Arrow_SensorFusion_turtlebot3_ws#installing-required-rosdep-packages-and-dependencies)
+Run the inference.py file using a pretrained model given from model.py
