@@ -26,4 +26,5 @@ Run the inference.py file using a pretrained model given from model.py
 ## YOLOv5
 
 # Original Image
-https://github.com/AkshayLaddha943/PersonDetection-RCNN-YOLO_COCODataset/blob/main/Output/Original_Image.PNG
+<p align="center"> <img src="https://github.com/AkshayLaddha943/PersonDetection-RCNN-YOLO_COCODataset/blob/main/Output/Original_Image.PNG" height="500" width=500" alt="turtlebot3_simulation">
+<br/>
